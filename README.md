@@ -1,24 +1,7 @@
-# README
+### Twitter / Chat Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Experimenting with the magic of ActionCable and StimulusReflex.
 
-Things you may want to cover:
+A real time updating chat / twitter clone with likes made in 10 minutes.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Image of Yaktocat](https://res.cloudinary.com/dppe5cx49/image/upload/v1602013752/yoohoo_blw1au.gif)
