@@ -1,0 +1,11 @@
+<div class="container">
+  <h1>Chatter App</h1>
+  <h4>Poor Mans Twitter / Chat App</h4>
+
+  <%= render "form" %>
+
+  <div id="timeline">
+    <%= render partial: "post", collection: @posts %>
+  </div>
+</div>
+
